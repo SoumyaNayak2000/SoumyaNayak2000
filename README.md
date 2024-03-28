@@ -13,6 +13,11 @@
 
 ###
 
+```
+function currentWork() {
+  console.log("Get Your Solution At OneSolution");
+}
+``` 
 - 🌱 I’m currently learning **Backend withNode js and Database with MongoDb**
 
 
@@ -75,9 +80,6 @@
 
 ###
 
-
-
-
 ###
 
 <div align="left">
@@ -90,3 +92,16 @@
 </div>
 
 
+###
+
+<a href="https://github.com/ScreenTechnicals">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaNayak2000&theme=radical" alt="Soumya's GitHub Contribution"/>
+</a>
+
+###
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
